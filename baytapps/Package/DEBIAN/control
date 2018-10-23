@@ -1,0 +1,10 @@
+Package: com.imokhles.WAEnhancer9
+Name: WAEnhancer9
+Version: 1.2-6
+Description: the most wanted features for WhatsApp
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, com.imokhles.imodevtools
+Priority: optional
+Architecture: iphoneos-arm
+Author: iMokhles
+
